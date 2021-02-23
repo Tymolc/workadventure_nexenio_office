@@ -533,8 +533,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":65,
-         "source":"tilesets_deviant_milkian_1.tsx"
+         "image":"tilesets_deviant_milkian_1.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"tilesets_deviant_milkian_1",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
