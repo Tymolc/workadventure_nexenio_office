@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"nexenio_office.json"
+                 "value":"nexenio_office.json#entry0"
                 }],
          "type":"tilelayer",
          "visible":true,
